@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "item_coins_00.png",
+	"frame": {"x":1,"y":1,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":110,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_coins_01.png",
+	"frame": {"x":1,"y":116,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":110,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_coins_02.png",
+	"frame": {"x":1,"y":231,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":110,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_coins_03.png",
+	"frame": {"x":1,"y":346,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":110,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_coins_04.png",
+	"frame": {"x":1,"y":461,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":110,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_coins_05.png",
+	"frame": {"x":1,"y":576,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":110,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_goblet_00.png",
+	"frame": {"x":1,"y":811,"w":104,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":104,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_goblet_01.png",
+	"frame": {"x":1,"y":926,"w":104,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":104,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_goblet_02.png",
+	"frame": {"x":1,"y":1041,"w":104,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":104,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_goblet_03.png",
+	"frame": {"x":1,"y":1156,"w":104,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":104,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_goblet_04.png",
+	"frame": {"x":1,"y":691,"w":104,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":104,"h":118},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_goblet_05.png",
+	"frame": {"x":1,"y":1271,"w":104,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":104,"h":113},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_skull_00.png",
+	"frame": {"x":1,"y":1566,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":32,"w":88,"h":77},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_skull_01.png",
+	"frame": {"x":1,"y":1645,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":32,"w":88,"h":77},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_skull_02.png",
+	"frame": {"x":1,"y":1724,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":32,"w":88,"h":77},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_skull_03.png",
+	"frame": {"x":1,"y":1803,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":32,"w":88,"h":77},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_skull_04.png",
+	"frame": {"x":1,"y":1386,"w":97,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":17,"w":97,"h":92},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "item_skull_05.png",
+	"frame": {"x":1,"y":1480,"w":90,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":25,"w":90,"h":84},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "treasureAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":112,"h":1881},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f26ddf87d76bce389078ce9ccc093e13:df1b2809158680e028a4ac010994c8cd:82376ea9ad600b32b8ee6b9504dbe589$"
+}
+}

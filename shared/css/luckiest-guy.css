@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Luckiest Guy';
+  src: url('../fonts/luckiest-guy/luckiest-guy.eot');
+  src: url('../fonts/luckiest-guy/luckiest-guy.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/luckiest-guy/luckiest-guy.woff2') format('woff2'),
+  url('../fonts/luckiest-guy/luckiest-guy.woff') format('woff'),
+  url('../fonts/luckiest-guy/luckiest-guy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
